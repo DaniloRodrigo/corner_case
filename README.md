@@ -24,14 +24,14 @@ In order to run this application is necessary meet the following requirements:
 
 ## Installation via pip
 
-**Cloning project:**
-$ git clone https://github.com/DaniloRodrigo/corner_case.git
+**Cloning project:**\
+$git clone https://github.com/DaniloRodrigo/corner_case.git
 
-**Installing requirements:**
-$ pip install django
-$ pip install djangorestframework
+**Installing requirements:**\
+$ pip install django\
+$ pip install djangorestframework\
 
-**Installing migration:**
+**Installing migration:**\
 $ python manage.py migrate
 
 > Note: You can also use virtualenv or anaconda to manage the development or production environment.
