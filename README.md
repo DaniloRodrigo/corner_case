@@ -29,7 +29,7 @@ $git clone https://github.com/DaniloRodrigo/corner_case.git
 
 **Installing requirements:**\
 $ pip install django\
-$ pip install djangorestframework\
+$ pip install djangorestframework
 
 **Installing migration:**\
 $ python manage.py migrate
