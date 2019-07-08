@@ -25,7 +25,7 @@ In order to run this application is necessary meet the following requirements:
 ## Installation via pip
 
 **Cloning project:**
-$ git clone https://github.com/DaniloRodrigo/corner_case.git
+$git clone https://github.com/DaniloRodrigo/corner_case.git
 
 **Installing requirements:**
 $ pip install django
